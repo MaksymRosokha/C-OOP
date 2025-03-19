@@ -1,0 +1,5 @@
+﻿  Task.cpp
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 2\Task 2\Task.cpp(60,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 2\Task 2\Task.cpp(70,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 2\Task 2\Task.cpp(74,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Task 2.vcxproj -> D:\UKEN\2 semestr\Programowanie obiektowe\Task 2\x64\Debug\Task 2.exe
