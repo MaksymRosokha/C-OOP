@@ -1,0 +1,17 @@
+﻿  Task 5.cpp
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 5\Task 5\PlaneFigure.h(63,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Task%205.cpp')
+  
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 5\Task 5\PlaneFigure.h(64,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Task%205.cpp')
+  
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 5\Task 5\PlaneFigure.h(65,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Task%205.cpp')
+  
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 5\Task 5\Task 5.cpp(11,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 5\Task 5\Task 5.cpp(12,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 5\Task 5\Task 5.cpp(13,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 5\Task 5\Task 5.cpp(25,16): warning C4305: '=': truncation from 'double' to 'float'
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 5\Task 5\Task 5.cpp(26,16): warning C4305: '=': truncation from 'double' to 'float'
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 5\Task 5\Task 5.cpp(27,16): warning C4305: '=': truncation from 'double' to 'float'
+  Task 5.vcxproj -> D:\UKEN\2 semestr\Programowanie obiektowe\Task 5\x64\Debug\Task 5.exe
