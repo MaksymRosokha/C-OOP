@@ -1,0 +1,32 @@
+﻿  Smartwatch.cpp
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Smartwatch.h(34,24): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Smartwatch.cpp')
+  
+  Task 7.cpp
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Smartwatch.h(34,24): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Task%207.cpp')
+  
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(12,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(16,13): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(19,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(29,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(36,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(43,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(47,13): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(50,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(60,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(67,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(69,13): warning C4566: character represented by universal-character-name '\u0141' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(69,13): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(69,63): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(80,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(87,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(89,13): warning C4566: character represented by universal-character-name '\u0141' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(89,13): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(89,63): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(95,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(97,13): warning C4566: character represented by universal-character-name '\u0141' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(97,13): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\Task 7\Task 7.cpp(97,63): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+  Generating Code...
+  Task 7.vcxproj -> D:\UKEN\2 semestr\Programowanie obiektowe\Task 7\x64\Debug\Task 7.exe

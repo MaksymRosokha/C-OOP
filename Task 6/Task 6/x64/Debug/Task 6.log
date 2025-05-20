@@ -1,0 +1,10 @@
+﻿  Task 6.cpp
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 6\Task 6\Task 6.cpp(13,13): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 6\Task 6\Task 6.cpp(21,13): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 6\Task 6\Task 6.cpp(31,13): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 6\Task 6\Task 6.cpp(34,13): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 6\Task 6\Task 6.cpp(41,22): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 6\Task 6\Task 6.cpp(41,32): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 6\Task 6\Task 6.cpp(44,13): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+D:\UKEN\2 semestr\Programowanie obiektowe\Task 6\Task 6\Task 6.cpp(47,13): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+  Task 6.vcxproj -> D:\UKEN\2 semestr\Programowanie obiektowe\Task 6\x64\Debug\Task 6.exe
